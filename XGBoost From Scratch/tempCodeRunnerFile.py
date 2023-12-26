@@ -1,0 +1,1 @@
+ L2 regularization term on weights. Increasing this value will make model more conservative.
